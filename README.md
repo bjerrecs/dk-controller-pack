@@ -15,7 +15,7 @@ This pack DOSE NOT include sectorfiles and normal plugins, its automaticly downl
 ![EKCH_APP_VIEW](images/EKCH_APP_VIEW.png)
 ![EKCH_DEICEING_LANES](images/EKCH_DEICEING_LANES.png)
 ![EKYT_APP_VIEW](images/EKYT_APP_VIEW.png)
-![EKCH_APP_VIEW](images/EKCH_APP_VIEW.png)
+![EKBI_APP_VIEW](images/EKBI_APP_VIEW.png)
 
 
 ### Included In The Pack:
