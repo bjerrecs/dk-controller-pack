@@ -1,0 +1,4 @@
+EKCH_DEL Kastrup Delivery
+EKCH_A_TWR Kastrup Tower
+EKCH_C_TWR Kastrup Tower
+EKCH_D_TWR Kastrup Tower
