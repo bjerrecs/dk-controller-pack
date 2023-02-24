@@ -20,3 +20,4 @@ This pack DOSE NOT include sectorfiles and normal plugins, its automaticly downl
 
 ### Included In The Pack:
 EuroSounds - [ganderoceanic.ca](https://ganderoceanic.ca/eurosounds)
+DiscordEuroscope - [DiscordEuroscope ](https://github.com/Kirollos/DiscordEuroscope)
